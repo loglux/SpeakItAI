@@ -1,0 +1,3 @@
+gradio
+python-dotenv
+azure-cognitiveservices-speech
