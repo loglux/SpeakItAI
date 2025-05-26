@@ -1,8 +1,9 @@
 import os
 import gradio as gr
 from dotenv import load_dotenv
-from tts.core import AzureTTS
-from tts.config import VOICES, STYLES, RATES, PITCHES
+from tts.azure.core import AzureTTS
+from tts.azure.config import VOICES, STYLES, RATES, PITCHES
+
 
 load_dotenv()
 AZURE_KEY = os.getenv("AZURE_KEY")

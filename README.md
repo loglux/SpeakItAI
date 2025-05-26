@@ -114,16 +114,22 @@ python app.py
 
 ```
 SpeakItAI/
-├── app.py                 # Entry point with Gradio UI
+├── app.py
 ├── .env.example
 ├── requirements.txt
 ├── README.md
-├── audio_outputs/         # Generated audio files
+├── audio_outputs/              # automatically created on runtime
 │
-└── tts/                   # Modular TTS logic
+├── screenshots/
+│   └── interface.png           # UI preview
+│
+└── tts/
     ├── __init__.py
-    ├── core.py            # AzureTTS class
-    ├── config.py          # Voice/style/pitch/rate settings
+    ├── base.py                 # optional: abstract provider interface
+    └── azure/
+        ├── __init__.py
+        ├── core.py             # AzureTTS implementation
+        └── config.py           # voices, speaking styles, rate and pitch options
 ```
 
 ---
