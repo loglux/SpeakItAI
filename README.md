@@ -3,6 +3,8 @@
 Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a simple Gradio web interface.
 
 ---
+![img.png](img.png)
+---
 
 ## 🎯 Features
 
