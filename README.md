@@ -3,7 +3,8 @@
 Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a simple Gradio web interface.
 
 ---
-![img.png](img.png)
+![SpeakItAI Interface](screenshots/interface.png)
+*A simple, interactive interface for converting your text to realistic speech.*
 ---
 
 ## 🎯 Features
@@ -55,6 +56,14 @@ Azure Neural TTS supports **140+ languages and dialects**, with many realistic m
 git clone https://github.com/loglux/SpeakItAI.git
 cd SpeakItAI
 ```
+### 🔐 Azure Setup (Required)
+
+Before running this app, you need an active Azure Speech resource.
+
+1. Go to the [Azure Portal](https://portal.azure.com/)
+2. Create a **Speech** resource (Free F0 tier available)
+3. Copy the **Key** and **Region** from the resource's "Keys and Endpoint" section
+4. You will paste them into a `.env` file as shown below:
 
 ### 2. Create `.env` File
 
