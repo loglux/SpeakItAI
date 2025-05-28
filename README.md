@@ -10,7 +10,7 @@ Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a s
 
 ## 🎯 Features
 
-- Neural TTS with **UK English** and multilingual voices
+- Neural TTS with dynamic voice selection across 140+ Azure-supported languages
 - Adjustable **speaking style**, **rate**, and **pitch**
 - Input via **textbox** or upload a `.txt` file
 - Output as **.wav** file, played directly in the browser
@@ -97,7 +97,14 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Run the App
+### 4. (Optional) Update Voice List from Azure 
+To fetch the latest voices and update `config.json`, run:
+```bash
+python tts/azure/update_config.py
+
+```
+---
+### 5. Run the App
 
 ```bash
 python app.py
