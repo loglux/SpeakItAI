@@ -1,0 +1,4540 @@
+{
+    "af-ZA": {
+        "voices": {
+            "Adri": {
+                "id": "Microsoft Server Speech Text to Speech Voice (af-ZA, AdriNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Willem": {
+                "id": "Microsoft Server Speech Text to Speech Voice (af-ZA, WillemNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "am-ET": {
+        "voices": {
+            "መቅደስ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (am-ET, MekdesNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "አምሀ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (am-ET, AmehaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-AE": {
+        "voices": {
+            "فاطمة": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-AE, FatimaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "حمدان": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-AE, HamdanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-BH": {
+        "voices": {
+            "ليلى": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-BH, LailaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "علي": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-BH, AliNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-DZ": {
+        "voices": {
+            "أمينة": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-DZ, AminaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "إسماعيل": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-DZ, IsmaelNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-EG": {
+        "voices": {
+            "سلمى": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-EG, SalmaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "شاكر": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-EG, ShakirNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-IQ": {
+        "voices": {
+            "رنا": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-IQ, RanaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "باسل": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-IQ, BasselNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-JO": {
+        "voices": {
+            "سناء": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-JO, SanaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "تيم": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-JO, TaimNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-KW": {
+        "voices": {
+            "نورا": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-KW, NouraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "فهد": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-KW, FahedNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-LB": {
+        "voices": {
+            "ليلى": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-LB, LaylaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "رامي": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-LB, RamiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-LY": {
+        "voices": {
+            "إيمان": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-LY, ImanNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "أحمد": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-LY, OmarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-MA": {
+        "voices": {
+            "منى": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-MA, MounaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "جمال": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-MA, JamalNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-OM": {
+        "voices": {
+            "عائشة": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-OM, AyshaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "عبدالله": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-OM, AbdullahNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-QA": {
+        "voices": {
+            "أمل": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-QA, AmalNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "معاذ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-QA, MoazNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-SA": {
+        "voices": {
+            "زارية": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-SA, ZariyahNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "حامد": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-SA, HamedNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-SY": {
+        "voices": {
+            "أماني": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-SY, AmanyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ليث": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-SY, LaithNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-TN": {
+        "voices": {
+            "ريم": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-TN, ReemNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "هادي": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-TN, HediNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ar-YE": {
+        "voices": {
+            "مريم": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-YE, MaryamNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "صالح": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ar-YE, SalehNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "as-IN": {
+        "voices": {
+            "যাশিকা": {
+                "id": "Microsoft Server Speech Text to Speech Voice (as-IN, YashicaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "প্ৰিয়ম": {
+                "id": "Microsoft Server Speech Text to Speech Voice (as-IN, PriyomNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "az-AZ": {
+        "voices": {
+            "Banu": {
+                "id": "Microsoft Server Speech Text to Speech Voice (az-AZ, BanuNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Babək": {
+                "id": "Microsoft Server Speech Text to Speech Voice (az-AZ, BabekNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "bg-BG": {
+        "voices": {
+            "Калина": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bg-BG, KalinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Борислав": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bg-BG, BorislavNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "bn-BD": {
+        "voices": {
+            "নবনীতা": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bn-BD, NabanitaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "প্রদ্বীপ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bn-BD, PradeepNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "bn-IN": {
+        "voices": {
+            "তানিশা": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bn-IN, TanishaaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ভাস্কর": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bn-IN, BashkarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "bs-BA": {
+        "voices": {
+            "Vesna": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bs-BA, VesnaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Goran": {
+                "id": "Microsoft Server Speech Text to Speech Voice (bs-BA, GoranNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ca-ES": {
+        "voices": {
+            "Joana": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ca-ES, JoanaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Enric": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ca-ES, EnricNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alba": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ca-ES, AlbaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "cs-CZ": {
+        "voices": {
+            "Vlasta": {
+                "id": "Microsoft Server Speech Text to Speech Voice (cs-CZ, VlastaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Antonín": {
+                "id": "Microsoft Server Speech Text to Speech Voice (cs-CZ, AntoninNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "cy-GB": {
+        "voices": {
+            "Nia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (cy-GB, NiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Aled": {
+                "id": "Microsoft Server Speech Text to Speech Voice (cy-GB, AledNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "da-DK": {
+        "voices": {
+            "Christel": {
+                "id": "Microsoft Server Speech Text to Speech Voice (da-DK, ChristelNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jeppe": {
+                "id": "Microsoft Server Speech Text to Speech Voice (da-DK, JeppeNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "de-AT": {
+        "voices": {
+            "Ingrid": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-AT, IngridNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jonas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-AT, JonasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "de-CH": {
+        "voices": {
+            "Leni": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-CH, LeniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-CH, JanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "de-DE": {
+        "voices": {
+            "Katja": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, KatjaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Conrad": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, ConradNeural)",
+                "gender": "Male",
+                "styles": [
+                    "cheerful"
+                ]
+            },
+            "Seraphina Mehrsprachig": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, SeraphinaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Florian Mehrsprachig": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, FlorianMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Amala": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, AmalaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Bernd": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, BerndNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Christoph": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, ChristophNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elke": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, ElkeNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gisela": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, GiselaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Kasper": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, KasperNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Killian": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, KillianNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Klarissa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, KlarissaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Klaus": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, KlausNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Louisa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, LouisaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Maja": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, MajaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ralf": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, RalfNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tanja": {
+                "id": "Microsoft Server Speech Text to Speech Voice (de-DE, TanjaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "el-GR": {
+        "voices": {
+            "Αθηνά": {
+                "id": "Microsoft Server Speech Text to Speech Voice (el-GR, AthinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Νέστορας": {
+                "id": "Microsoft Server Speech Text to Speech Voice (el-GR, NestorasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-AU": {
+        "voices": {
+            "Natasha": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, NatashaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "William": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, WilliamNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Annette": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, AnnetteNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Carly": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, CarlyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Darren": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, DarrenNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Duncan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, DuncanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elsie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, ElsieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Freya": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, FreyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Joanne": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, JoanneNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ken": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, KenNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Kim": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, KimNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Neil": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, NeilNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tim": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, TimNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-AU, TinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-CA": {
+        "voices": {
+            "Clara": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-CA, ClaraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Liam": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-CA, LiamNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-GB": {
+        "voices": {
+            "Sonia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, SoniaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "cheerful",
+                    "sad"
+                ]
+            },
+            "Ryan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, RyanNeural)",
+                "gender": "Male",
+                "styles": [
+                    "cheerful",
+                    "chat"
+                ]
+            },
+            "Libby": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, LibbyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ada Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, AdaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ollie Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, OllieMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Abbi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, AbbiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alfie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, AlfieNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Bella": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, BellaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elliot": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, ElliotNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ethan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, EthanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Hollie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, HollieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Maisie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, MaisieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Noah": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, NoahNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Oliver": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, OliverNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Olivia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, OliviaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Thomas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, ThomasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Mia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-GB, MiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-HK": {
+        "voices": {
+            "Yan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-HK, YanNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Sam": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-HK, SamNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-IE": {
+        "voices": {
+            "Emily": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IE, EmilyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Connor": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IE, ConnorNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-IN": {
+        "voices": {
+            "Aarav": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, AaravNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Aashi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, AashiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Aarti": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, AartiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Arjun": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, ArjunNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ananya": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, AnanyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Kavya": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, KavyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Kunal": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, KunalNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Neerja": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, NeerjaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "newscast",
+                    "cheerful",
+                    "empathetic"
+                ]
+            },
+            "Prabhat": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, PrabhatNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rehaan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-IN, RehaanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-KE": {
+        "voices": {
+            "Asilia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-KE, AsiliaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Chilemba": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-KE, ChilembaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-NG": {
+        "voices": {
+            "Ezinne": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-NG, EzinneNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Abeo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-NG, AbeoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-NZ": {
+        "voices": {
+            "Molly": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-NZ, MollyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Mitchell": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-NZ, MitchellNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-PH": {
+        "voices": {
+            "Rosa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-PH, RosaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "James": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-PH, JamesNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-SG": {
+        "voices": {
+            "Luna": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-SG, LunaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Wayne": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-SG, WayneNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-TZ": {
+        "voices": {
+            "Imani": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-TZ, ImaniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elimu": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-TZ, ElimuNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-US": {
+        "voices": {
+            "Ava Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AvaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Andrew Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AndrewMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    "empathetic",
+                    "relieved"
+                ]
+            },
+            "Emma Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alloy Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AlloyTurboMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Echo Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, EchoTurboMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fable Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, FableTurboMultilingualNeural)",
+                "gender": "Neutral",
+                "styles": [
+                    ""
+                ]
+            },
+            "Onyx Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, OnyxTurboMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nova Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, NovaTurboMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Shimmer Turbo Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, ShimmerTurboMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brian Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, BrianMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ava": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AvaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "fearful",
+                    "sad"
+                ]
+            },
+            "Andrew": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AndrewNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Emma": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brian": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, BrianNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jenny": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+                "gender": "Female",
+                "styles": [
+                    "assistant",
+                    "chat",
+                    "customerservice",
+                    "newscast",
+                    "angry",
+                    "cheerful",
+                    "sad",
+                    "excited",
+                    "friendly",
+                    "terrified",
+                    "shouting",
+                    "unfriendly",
+                    "whispering",
+                    "hopeful"
+                ]
+            },
+            "Guy": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+                "gender": "Male",
+                "styles": [
+                    "newscast",
+                    "angry",
+                    "cheerful",
+                    "sad",
+                    "excited",
+                    "friendly",
+                    "terrified",
+                    "shouting",
+                    "unfriendly",
+                    "whispering",
+                    "hopeful"
+                ]
+            },
+            "Aria": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "chat",
+                    "customerservice",
+                    "narration-professional",
+                    "newscast-casual",
+                    "newscast-formal",
+                    "cheerful",
+                    "empathetic",
+                    "angry",
+                    "sad",
+                    "excited",
+                    "friendly",
+                    "terrified",
+                    "shouting",
+                    "unfriendly",
+                    "whispering",
+                    "hopeful"
+                ]
+            },
+            "Davis": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, DavisNeural)",
+                "gender": "Male",
+                "styles": [
+                    "chat",
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Jane": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, JaneNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Jason": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, JasonNeural)",
+                "gender": "Male",
+                "styles": [
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Kai": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, KaiNeural)",
+                "gender": "Male",
+                "styles": [
+                    "conversation"
+                ]
+            },
+            "Luna": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, LunaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "conversation"
+                ]
+            },
+            "Sara": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, SaraNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Tony": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, TonyNeural)",
+                "gender": "Male",
+                "styles": [
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Nancy": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, NancyNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "cheerful",
+                    "excited",
+                    "friendly",
+                    "hopeful",
+                    "sad",
+                    "shouting",
+                    "terrified",
+                    "unfriendly",
+                    "whispering"
+                ]
+            },
+            "Cora Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, CoraMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Christopher Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brandon Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, BrandonMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Amber": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AmberNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ana": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AnaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ashley": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, AshleyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brandon": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, BrandonNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Christopher": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Cora": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, CoraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elizabeth": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, ElizabethNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Eric": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jacob": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, JacobNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jenny Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, JennyMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Michelle": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Monica": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, MonicaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Roger": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, RogerNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ryan Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, RyanMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Steffan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-US, SteffanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "en-ZA": {
+        "voices": {
+            "Leah": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-ZA, LeahNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Luke": {
+                "id": "Microsoft Server Speech Text to Speech Voice (en-ZA, LukeNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-AR": {
+        "voices": {
+            "Elena": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-AR, ElenaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tomas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-AR, TomasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-BO": {
+        "voices": {
+            "Sofia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-BO, SofiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Marcelo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-BO, MarceloNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-CL": {
+        "voices": {
+            "Catalina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CL, CatalinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Lorenzo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CL, LorenzoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-CO": {
+        "voices": {
+            "Salome": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CO, SalomeNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gonzalo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CO, GonzaloNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-CR": {
+        "voices": {
+            "María": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CR, MariaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Juan": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CR, JuanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-CU": {
+        "voices": {
+            "Belkys": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CU, BelkysNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Manuel": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-CU, ManuelNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-DO": {
+        "voices": {
+            "Ramona": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-DO, RamonaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Emilio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-DO, EmilioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-EC": {
+        "voices": {
+            "Andrea": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-EC, AndreaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Luis": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-EC, LuisNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-ES": {
+        "voices": {
+            "Elvira": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, ElviraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Álvaro": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, AlvaroNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Arabella Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, ArabellaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Isidora Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, IsidoraMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tristan Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, TristanMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ximena Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, XimenaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Abril": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, AbrilNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Arnau": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, ArnauNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Dario": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, DarioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elias": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, EliasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Estrella": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, EstrellaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Irene": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, IreneNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Laia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, LaiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Lia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, LiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nil": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, NilNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Saul": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, SaulNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Teo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, TeoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Triana": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, TrianaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Vera": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, VeraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ximena": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-ES, XimenaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-GQ": {
+        "voices": {
+            "Teresa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-GQ, TeresaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Javier": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-GQ, JavierNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-GT": {
+        "voices": {
+            "Marta": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-GT, MartaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Andrés": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-GT, AndresNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-HN": {
+        "voices": {
+            "Karla": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-HN, KarlaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Carlos": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-HN, CarlosNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-MX": {
+        "voices": {
+            "Dalia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, DaliaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jorge": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, JorgeNeural)",
+                "gender": "Male",
+                "styles": [
+                    "cheerful",
+                    "chat"
+                ]
+            },
+            "Beatriz": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, BeatrizNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Candela": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, CandelaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Carlota": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, CarlotaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Cecilio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, CecilioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gerardo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, GerardoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Larissa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, LarissaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Liberto": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, LibertoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Luciano": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, LucianoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Marina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, MarinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nuria": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, NuriaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Pelayo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, PelayoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Renata": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, RenataNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Yago": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-MX, YagoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-NI": {
+        "voices": {
+            "Yolanda": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-NI, YolandaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Federico": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-NI, FedericoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-PA": {
+        "voices": {
+            "Margarita": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PA, MargaritaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Roberto": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PA, RobertoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-PE": {
+        "voices": {
+            "Camila": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PE, CamilaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alex": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PE, AlexNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-PR": {
+        "voices": {
+            "Karina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PR, KarinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Víctor": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PR, VictorNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-PY": {
+        "voices": {
+            "Tania": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PY, TaniaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Mario": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-PY, MarioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-SV": {
+        "voices": {
+            "Lorena": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-SV, LorenaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rodrigo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-SV, RodrigoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-US": {
+        "voices": {
+            "Paloma": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-US, PalomaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alonso": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-US, AlonsoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-UY": {
+        "voices": {
+            "Valentina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-UY, ValentinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Mateo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-UY, MateoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "es-VE": {
+        "voices": {
+            "Paola": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-VE, PaolaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Sebastián": {
+                "id": "Microsoft Server Speech Text to Speech Voice (es-VE, SebastianNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "et-EE": {
+        "voices": {
+            "Anu": {
+                "id": "Microsoft Server Speech Text to Speech Voice (et-EE, AnuNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Kert": {
+                "id": "Microsoft Server Speech Text to Speech Voice (et-EE, KertNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "eu-ES": {
+        "voices": {
+            "Ainhoa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (eu-ES, AinhoaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ander": {
+                "id": "Microsoft Server Speech Text to Speech Voice (eu-ES, AnderNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fa-IR": {
+        "voices": {
+            "دلارا": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fa-IR, DilaraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "فرید": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fa-IR, FaridNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fi-FI": {
+        "voices": {
+            "Selma": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fi-FI, SelmaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Harri": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fi-FI, HarriNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Noora": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fi-FI, NooraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fil-PH": {
+        "voices": {
+            "Blessica": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fil-PH, BlessicaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Angelo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fil-PH, AngeloNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fr-BE": {
+        "voices": {
+            "Charline": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-BE, CharlineNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gerard": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-BE, GerardNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fr-CA": {
+        "voices": {
+            "Sylvie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CA, SylvieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jean": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CA, JeanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Antoine": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CA, AntoineNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Thierry": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CA, ThierryNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fr-CH": {
+        "voices": {
+            "Ariane": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CH, ArianeNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fabrice": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-CH, FabriceNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "fr-FR": {
+        "voices": {
+            "Denise": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)",
+                "gender": "Female",
+                "styles": [
+                    "cheerful",
+                    "sad"
+                ]
+            },
+            "Henri": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)",
+                "gender": "Male",
+                "styles": [
+                    "cheerful",
+                    "sad"
+                ]
+            },
+            "Vivienne Multilingue": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rémy Multilingue": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, RemyMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Lucien Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, LucienMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alain": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, AlainNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brigitte": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, BrigitteNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Celeste": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, CelesteNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Claude": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, ClaudeNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Coralie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, CoralieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Eloise": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jacqueline": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, JacquelineNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jerome": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, JeromeNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Josephine": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, JosephineNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Maurice": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, MauriceNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Yves": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, YvesNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Yvette": {
+                "id": "Microsoft Server Speech Text to Speech Voice (fr-FR, YvetteNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ga-IE": {
+        "voices": {
+            "Orla": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ga-IE, OrlaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Colm": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ga-IE, ColmNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "gl-ES": {
+        "voices": {
+            "Sabela": {
+                "id": "Microsoft Server Speech Text to Speech Voice (gl-ES, SabelaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Roi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (gl-ES, RoiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "gu-IN": {
+        "voices": {
+            "ધ્વની": {
+                "id": "Microsoft Server Speech Text to Speech Voice (gu-IN, DhwaniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "નિરંજન": {
+                "id": "Microsoft Server Speech Text to Speech Voice (gu-IN, NiranjanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "he-IL": {
+        "voices": {
+            "הילה": {
+                "id": "Microsoft Server Speech Text to Speech Voice (he-IL, HilaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "אברי": {
+                "id": "Microsoft Server Speech Text to Speech Voice (he-IL, AvriNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "hi-IN": {
+        "voices": {
+            "आरव ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, AaravNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "अनन्या": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, AnanyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "आरती": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, AartiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "अर्जुन": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, ArjunNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "काव्या": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, KavyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "कुनाल ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, KunalNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "रेहान": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, RehaanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "स्वरा": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, SwaraNeural)",
+                "gender": "Female",
+                "styles": [
+                    "newscast",
+                    "cheerful",
+                    "empathetic"
+                ]
+            },
+            "मधुर": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hi-IN, MadhurNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "hr-HR": {
+        "voices": {
+            "Gabrijela": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hr-HR, GabrijelaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Srećko": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hr-HR, SreckoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "hu-HU": {
+        "voices": {
+            "Noémi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hu-HU, NoemiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Tamás": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hu-HU, TamasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "hy-AM": {
+        "voices": {
+            "Անահիտ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hy-AM, AnahitNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Հայկ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (hy-AM, HaykNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "id-ID": {
+        "voices": {
+            "Gadis": {
+                "id": "Microsoft Server Speech Text to Speech Voice (id-ID, GadisNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ardi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (id-ID, ArdiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "is-IS": {
+        "voices": {
+            "Guðrún": {
+                "id": "Microsoft Server Speech Text to Speech Voice (is-IS, GudrunNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gunnar": {
+                "id": "Microsoft Server Speech Text to Speech Voice (is-IS, GunnarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "it-IT": {
+        "voices": {
+            "Elsa": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, ElsaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Isabella": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, IsabellaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "cheerful",
+                    "chat"
+                ]
+            },
+            "Diego": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, DiegoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Alessio Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, AlessioMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Isabella Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, IsabellaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Giuseppe Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, GiuseppeMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Marcello Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, MarcelloMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Benigno": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, BenignoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Calimero": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, CalimeroNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Cataldo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, CataldoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fabiola": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, FabiolaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fiamma": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, FiammaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Gianni": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, GianniNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Giuseppe": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, GiuseppeNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Imelda": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, ImeldaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Irma": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, IrmaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Lisandro": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, LisandroNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Palmira": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, PalmiraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Pierina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, PierinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rinaldo": {
+                "id": "Microsoft Server Speech Text to Speech Voice (it-IT, RinaldoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "iu-Cans-CA": {
+        "voices": {
+            "ᓯᕿᓂᖅ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (iu-Cans-CA, SiqiniqNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ᑕᖅᑭᖅ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (iu-Cans-CA, TaqqiqNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "iu-Latn-CA": {
+        "voices": {
+            "ᓯᕿᓂᖅ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (iu-Latn-CA, SiqiniqNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ᑕᖅᑭᖅ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (iu-Latn-CA, TaqqiqNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ja-JP": {
+        "voices": {
+            "七海": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, NanamiNeural)",
+                "gender": "Female",
+                "styles": [
+                    "chat",
+                    "customerservice",
+                    "cheerful"
+                ]
+            },
+            "圭太": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, KeitaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "碧衣": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, AoiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "大智": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, DaichiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "真夕": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, MayuNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "直紀": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, NaokiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "志織": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ja-JP, ShioriNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "jv-ID": {
+        "voices": {
+            "Siti": {
+                "id": "Microsoft Server Speech Text to Speech Voice (jv-ID, SitiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Dimas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (jv-ID, DimasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ka-GE": {
+        "voices": {
+            "ეკა": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ka-GE, EkaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "გიორგი": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ka-GE, GiorgiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "kk-KZ": {
+        "voices": {
+            "Айгүл": {
+                "id": "Microsoft Server Speech Text to Speech Voice (kk-KZ, AigulNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Дәулет": {
+                "id": "Microsoft Server Speech Text to Speech Voice (kk-KZ, DauletNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "km-KH": {
+        "voices": {
+            "ស្រីមុំ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (km-KH, SreymomNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ពិសិដ្ឋ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (km-KH, PisethNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "kn-IN": {
+        "voices": {
+            "ಸಪ್ನಾ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (kn-IN, SapnaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ಗಗನ್": {
+                "id": "Microsoft Server Speech Text to Speech Voice (kn-IN, GaganNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ko-KR": {
+        "voices": {
+            "선히": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, SunHiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "인준": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, InJoonNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Hyunsu Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, HyunsuMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "봉진": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, BongJinNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "국민": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, GookMinNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "현수": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, HyunsuNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "지민": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, JiMinNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "서현": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, SeoHyeonNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "순복": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, SoonBokNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "유진": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ko-KR, YuJinNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "lo-LA": {
+        "voices": {
+            "ແກ້ວມະນີ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lo-LA, KeomanyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ຈັນທະວົງ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lo-LA, ChanthavongNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "lt-LT": {
+        "voices": {
+            "Ona": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lt-LT, OnaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Leonas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lt-LT, LeonasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "lv-LV": {
+        "voices": {
+            "Everita": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lv-LV, EveritaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nils": {
+                "id": "Microsoft Server Speech Text to Speech Voice (lv-LV, NilsNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "mk-MK": {
+        "voices": {
+            "Марија": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mk-MK, MarijaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Александар": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mk-MK, AleksandarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ml-IN": {
+        "voices": {
+            "ശോഭന": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ml-IN, SobhanaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "മിഥുൻ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ml-IN, MidhunNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "mn-MN": {
+        "voices": {
+            "Есүй": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mn-MN, YesuiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Батаа": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mn-MN, BataaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "mr-IN": {
+        "voices": {
+            "आरोही": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mr-IN, AarohiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "मनोहर": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mr-IN, ManoharNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ms-MY": {
+        "voices": {
+            "Yasmin": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ms-MY, YasminNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Osman": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ms-MY, OsmanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "mt-MT": {
+        "voices": {
+            "Grace": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mt-MT, GraceNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Joseph": {
+                "id": "Microsoft Server Speech Text to Speech Voice (mt-MT, JosephNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "my-MM": {
+        "voices": {
+            "နီလာ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (my-MM, NilarNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "သီဟ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (my-MM, ThihaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "nb-NO": {
+        "voices": {
+            "Pernille": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nb-NO, PernilleNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Finn": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nb-NO, FinnNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Iselin": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nb-NO, IselinNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ne-NP": {
+        "voices": {
+            "हेमकला": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ne-NP, HemkalaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "सागर": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ne-NP, SagarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "nl-BE": {
+        "voices": {
+            "Dena": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nl-BE, DenaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Arnaud": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nl-BE, ArnaudNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "nl-NL": {
+        "voices": {
+            "Fenna": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nl-NL, FennaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Maarten": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nl-NL, MaartenNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Colette": {
+                "id": "Microsoft Server Speech Text to Speech Voice (nl-NL, ColetteNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "or-IN": {
+        "voices": {
+            "ସୁଭାସିନୀ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (or-IN, SubhasiniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "ସୁକାନ୍ତ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (or-IN, SukantNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "pa-IN": {
+        "voices": {
+            "ਓਜਸ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pa-IN, OjasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "ਵਾਨੀ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pa-IN, VaaniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "pl-PL": {
+        "voices": {
+            "Agnieszka": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pl-PL, AgnieszkaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Marek": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pl-PL, MarekNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Zofia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pl-PL, ZofiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ps-AF": {
+        "voices": {
+            "لطيفه": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ps-AF, LatifaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            " ګل نواز": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ps-AF, GulNawazNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "pt-BR": {
+        "voices": {
+            "Francisca": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)",
+                "gender": "Female",
+                "styles": [
+                    "calm"
+                ]
+            },
+            "Antônio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Macerio Multilingual": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, MacerioMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Thalita multilíngue": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, ThalitaMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Brenda": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, BrendaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Donato": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, DonatoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Elza": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, ElzaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fabio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, FabioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Giovanna": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, GiovannaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Humberto": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, HumbertoNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Julio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, JulioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Leila": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, LeilaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Leticia": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, LeticiaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Manuela": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, ManuelaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nicolau": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, NicolauNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Thalita": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, ThalitaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Valerio": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, ValerioNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Yara": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-BR, YaraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "pt-PT": {
+        "voices": {
+            "Raquel": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-PT, RaquelNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Duarte": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-PT, DuarteNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Fernanda": {
+                "id": "Microsoft Server Speech Text to Speech Voice (pt-PT, FernandaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ro-RO": {
+        "voices": {
+            "Alina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ro-RO, AlinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Emil": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ro-RO, EmilNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ru-RU": {
+        "voices": {
+            "Светлана": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ru-RU, SvetlanaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Дмитрий": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ru-RU, DmitryNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Дария": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ru-RU, DariyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "si-LK": {
+        "voices": {
+            "තිළිණි": {
+                "id": "Microsoft Server Speech Text to Speech Voice (si-LK, ThiliniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "සමීර": {
+                "id": "Microsoft Server Speech Text to Speech Voice (si-LK, SameeraNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sk-SK": {
+        "voices": {
+            "Viktória": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sk-SK, ViktoriaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Lukáš": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sk-SK, LukasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sl-SI": {
+        "voices": {
+            "Petra": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sl-SI, PetraNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rok": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sl-SI, RokNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "so-SO": {
+        "voices": {
+            "Ubax": {
+                "id": "Microsoft Server Speech Text to Speech Voice (so-SO, UbaxNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Muuse": {
+                "id": "Microsoft Server Speech Text to Speech Voice (so-SO, MuuseNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sq-AL": {
+        "voices": {
+            "Anila": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sq-AL, AnilaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ilir": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sq-AL, IlirNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sr-Latn-RS": {
+        "voices": {
+            "Nicholas": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sr-Latn-RS, NicholasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Sophie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sr-Latn-RS, SophieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sr-RS": {
+        "voices": {
+            "Софија": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sr-RS, SophieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Никола": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sr-RS, NicholasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "su-ID": {
+        "voices": {
+            "Tuti": {
+                "id": "Microsoft Server Speech Text to Speech Voice (su-ID, TutiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Jajang": {
+                "id": "Microsoft Server Speech Text to Speech Voice (su-ID, JajangNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sv-SE": {
+        "voices": {
+            "Sofie": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sv-SE, SofieNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Mattias": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sv-SE, MattiasNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "Hillevi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sv-SE, HilleviNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sw-KE": {
+        "voices": {
+            "Zuri": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sw-KE, ZuriNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Rafiki": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sw-KE, RafikiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "sw-TZ": {
+        "voices": {
+            "Rehema": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sw-TZ, RehemaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Daudi": {
+                "id": "Microsoft Server Speech Text to Speech Voice (sw-TZ, DaudiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ta-IN": {
+        "voices": {
+            "பல்லவி": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-IN, PallaviNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "வள்ளுவர்": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-IN, ValluvarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ta-LK": {
+        "voices": {
+            "சரண்யா": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-LK, SaranyaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "குமார்": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-LK, KumarNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ta-MY": {
+        "voices": {
+            "கனி": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-MY, KaniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "சூர்யா": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-MY, SuryaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ta-SG": {
+        "voices": {
+            "வெண்பா": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-SG, VenbaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "அன்பு": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ta-SG, AnbuNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "te-IN": {
+        "voices": {
+            "శ్రుతి": {
+                "id": "Microsoft Server Speech Text to Speech Voice (te-IN, ShrutiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "మోహన్": {
+                "id": "Microsoft Server Speech Text to Speech Voice (te-IN, MohanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "th-TH": {
+        "voices": {
+            "เปรมวดี": {
+                "id": "Microsoft Server Speech Text to Speech Voice (th-TH, PremwadeeNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "นิวัฒน์": {
+                "id": "Microsoft Server Speech Text to Speech Voice (th-TH, NiwatNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "อัจฉรา": {
+                "id": "Microsoft Server Speech Text to Speech Voice (th-TH, AcharaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "tr-TR": {
+        "voices": {
+            "Emel": {
+                "id": "Microsoft Server Speech Text to Speech Voice (tr-TR, EmelNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Ahmet": {
+                "id": "Microsoft Server Speech Text to Speech Voice (tr-TR, AhmetNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "uk-UA": {
+        "voices": {
+            "Поліна": {
+                "id": "Microsoft Server Speech Text to Speech Voice (uk-UA, PolinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Остап": {
+                "id": "Microsoft Server Speech Text to Speech Voice (uk-UA, OstapNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ur-IN": {
+        "voices": {
+            "گل": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ur-IN, GulNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "سلمان": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ur-IN, SalmanNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "ur-PK": {
+        "voices": {
+            "عظمیٰ": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ur-PK, UzmaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "اسد": {
+                "id": "Microsoft Server Speech Text to Speech Voice (ur-PK, AsadNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "uz-UZ": {
+        "voices": {
+            "Madina": {
+                "id": "Microsoft Server Speech Text to Speech Voice (uz-UZ, MadinaNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Sardor": {
+                "id": "Microsoft Server Speech Text to Speech Voice (uz-UZ, SardorNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "vi-VN": {
+        "voices": {
+            "Hoài My": {
+                "id": "Microsoft Server Speech Text to Speech Voice (vi-VN, HoaiMyNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Nam Minh": {
+                "id": "Microsoft Server Speech Text to Speech Voice (vi-VN, NamMinhNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "wuu-CN": {
+        "voices": {
+            "晓彤": {
+                "id": "Microsoft Server Speech Text to Speech Voice (wuu-CN, XiaotongNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "云哲": {
+                "id": "Microsoft Server Speech Text to Speech Voice (wuu-CN, YunzheNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "yue-CN": {
+        "voices": {
+            "晓敏": {
+                "id": "Microsoft Server Speech Text to Speech Voice (yue-CN, XiaoMinNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "云松": {
+                "id": "Microsoft Server Speech Text to Speech Voice (yue-CN, YunSongNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-CN": {
+        "voices": {
+            "晓晓": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)",
+                "gender": "Female",
+                "styles": [
+                    "assistant",
+                    "chat",
+                    "customerservice",
+                    "newscast",
+                    "affectionate",
+                    "angry",
+                    "calm",
+                    "cheerful",
+                    "disgruntled",
+                    "fearful",
+                    "gentle",
+                    "lyrical",
+                    "sad",
+                    "serious",
+                    "poetry-reading",
+                    "friendly",
+                    "chat-casual",
+                    "whispering",
+                    "sorry",
+                    "excited"
+                ]
+            },
+            "云希": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiNeural)",
+                "gender": "Male",
+                "styles": [
+                    "narration-relaxed",
+                    "embarrassed",
+                    "fearful",
+                    "cheerful",
+                    "disgruntled",
+                    "serious",
+                    "angry",
+                    "sad",
+                    "depressed",
+                    "chat",
+                    "assistant",
+                    "newscast"
+                ]
+            },
+            "云健": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunjianNeural)",
+                "gender": "Male",
+                "styles": [
+                    "narration-relaxed",
+                    "sports-commentary",
+                    "sports-commentary-excited",
+                    "angry",
+                    "disgruntled",
+                    "cheerful",
+                    "sad",
+                    "serious",
+                    "depressed",
+                    "documentary-narration"
+                ]
+            },
+            "晓伊": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyiNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "disgruntled",
+                    "affectionate",
+                    "cheerful",
+                    "fearful",
+                    "sad",
+                    "embarrassed",
+                    "serious",
+                    "gentle"
+                ]
+            },
+            "云扬": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunyangNeural)",
+                "gender": "Male",
+                "styles": [
+                    "customerservice",
+                    "narration-professional",
+                    "newscast-casual"
+                ]
+            },
+            "晓辰": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaochenNeural)",
+                "gender": "Female",
+                "styles": [
+                    "livecommercial"
+                ]
+            },
+            "晓辰 多语言": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaochenMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓涵": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaohanNeural)",
+                "gender": "Female",
+                "styles": [
+                    "calm",
+                    "fearful",
+                    "cheerful",
+                    "disgruntled",
+                    "serious",
+                    "angry",
+                    "sad",
+                    "gentle",
+                    "affectionate",
+                    "embarrassed"
+                ]
+            },
+            "晓梦": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaomengNeural)",
+                "gender": "Female",
+                "styles": [
+                    "chat"
+                ]
+            },
+            "晓墨": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaomoNeural)",
+                "gender": "Female",
+                "styles": [
+                    "embarrassed",
+                    "calm",
+                    "fearful",
+                    "cheerful",
+                    "disgruntled",
+                    "serious",
+                    "angry",
+                    "sad",
+                    "depressed",
+                    "affectionate",
+                    "gentle",
+                    "envious"
+                ]
+            },
+            "晓秋": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoqiuNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓柔": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaorouNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓睿": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoruiNeural)",
+                "gender": "Female",
+                "styles": [
+                    "calm",
+                    "fearful",
+                    "angry",
+                    "sad"
+                ]
+            },
+            "晓双": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoshuangNeural)",
+                "gender": "Female",
+                "styles": [
+                    "chat"
+                ]
+            },
+            "晓晓 方言": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoDialectsNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓晓 多语言": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    "affectionate",
+                    "cheerful",
+                    "empathetic",
+                    "excited",
+                    "poetry-reading",
+                    "sorry",
+                    "story"
+                ]
+            },
+            "晓颜": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyanNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓悠": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyouNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓宇 多语言": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyuMultilingualNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "晓甄": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaozhenNeural)",
+                "gender": "Female",
+                "styles": [
+                    "angry",
+                    "disgruntled",
+                    "cheerful",
+                    "fearful",
+                    "sad",
+                    "serious"
+                ]
+            },
+            "云枫": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunfengNeural)",
+                "gender": "Male",
+                "styles": [
+                    "angry",
+                    "disgruntled",
+                    "cheerful",
+                    "fearful",
+                    "sad",
+                    "serious",
+                    "depressed"
+                ]
+            },
+            "云皓": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunhaoNeural)",
+                "gender": "Male",
+                "styles": [
+                    "advertisement-upbeat"
+                ]
+            },
+            "云杰": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunjieNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "云夏": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiaNeural)",
+                "gender": "Male",
+                "styles": [
+                    "calm",
+                    "fearful",
+                    "cheerful",
+                    "angry",
+                    "sad"
+                ]
+            },
+            "云野": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunyeNeural)",
+                "gender": "Male",
+                "styles": [
+                    "embarrassed",
+                    "calm",
+                    "fearful",
+                    "cheerful",
+                    "disgruntled",
+                    "serious",
+                    "angry",
+                    "sad"
+                ]
+            },
+            "云逸 多语言": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunyiMultilingualNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "云泽": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunzeNeural)",
+                "gender": "Male",
+                "styles": [
+                    "calm",
+                    "fearful",
+                    "cheerful",
+                    "disgruntled",
+                    "serious",
+                    "angry",
+                    "sad",
+                    "depressed",
+                    "documentary-narration"
+                ]
+            }
+        }
+    },
+    "zh-CN-henan": {
+        "voices": {
+            "云登": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN-henan, YundengNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-CN-liaoning": {
+        "voices": {
+            "晓北": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN-liaoning, XiaobeiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-CN-shaanxi": {
+        "voices": {
+            "晓妮": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN-shaanxi, XiaoniNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-CN-shandong": {
+        "voices": {
+            "云翔": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN-shandong, YunxiangNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-CN-sichuan": {
+        "voices": {
+            "云希 四川": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-CN-sichuan, YunxiNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-HK": {
+        "voices": {
+            "曉曼": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-HK, HiuMaanNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "雲龍": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-HK, WanLungNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "曉佳": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-HK, HiuGaaiNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zh-TW": {
+        "voices": {
+            "曉臻": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoChenNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "雲哲": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-TW, YunJheNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            },
+            "曉雨": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoYuNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    },
+    "zu-ZA": {
+        "voices": {
+            "Thando": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zu-ZA, ThandoNeural)",
+                "gender": "Female",
+                "styles": [
+                    ""
+                ]
+            },
+            "Themba": {
+                "id": "Microsoft Server Speech Text to Speech Voice (zu-ZA, ThembaNeural)",
+                "gender": "Male",
+                "styles": [
+                    ""
+                ]
+            }
+        }
+    }
+}
