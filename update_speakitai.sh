@@ -1,8 +1,8 @@
 #!/bin/sh
 
-CONTAINER_NAME="speekit"
-IMAGE_NAME="speekit:latest"
-LOG_FILE="update_speekit.log"
+CONTAINER_NAME="SpeakItAI"
+IMAGE_NAME="speakitai:latest"
+LOG_FILE="update_speakitai.log"
 
 log() {
   echo "$(date +"%Y-%m-%d %H:%M:%S") - $1" | tee -a "$LOG_FILE"
