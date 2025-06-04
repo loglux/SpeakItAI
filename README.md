@@ -192,7 +192,45 @@ The codebase is modular and ready for extension:
 - Support alternative providers like ElevenLabs, Bark, or Google Cloud TTS later
 
 ---
+## 🐳 Docker & FastAPI Integration (Branch: `fastapi-auth-docker`)
 
+This branch adds:
+
+- 🔐 Full user authentication (login, logout, register, profile)
+- 🎛 FastAPI backend with session management
+- 🧩 Gradio interface mounted securely at `/tts`
+- 🐳 Docker + Docker Compose setup
+- 🔄 Shell script for updating/restarting container
+
+### 🚀 Quick Start (Docker)
+
+1. Copy `.env.example` and configure Azure and DB path:
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Build and start the app:
+   ```bash
+   docker compose up -d --build
+   ```
+
+3. Open in browser:
+   ```
+   http://localhost:8000
+   ```
+
+### 🔄 Update Script
+
+Run this to rebuild and restart:
+
+```bash
+./update_speekit.sh
+```
+
+### 🧪 First-time use
+
+On first launch, you'll see the **registration page**. After registering and logging in, access the interface at `/tts`.
+---
 ## 🛡 License
 
 This project is licensed under the MIT License.

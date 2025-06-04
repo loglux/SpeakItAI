@@ -1,3 +1,9 @@
 gradio
 python-dotenv
 azure-cognitiveservices-speech
+fastapi
+uvicorn
+sqlalchemy
+itsdangerous
+passlib
+bcrypt

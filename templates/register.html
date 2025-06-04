@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register – SpeakItAI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-8 rounded shadow-md w-full max-w-md">
+        <h2 class="text-2xl font-bold mb-6 text-center">📝 Register for SpeakItAI</h2>
+
+        {% if error %}
+            <div class="bg-red-100 text-red-700 p-3 mb-4 rounded">
+                {{ error }}
+            </div>
+        {% endif %}
+
+        {% if success %}
+            <div class="bg-green-100 text-green-700 p-3 mb-4 rounded">
+                {{ success }}
+            </div>
+        {% endif %}
+
+        <form method="post" action="/register" class="space-y-4">
+            <div>
+                <label for="username" class="block text-sm font-medium">Username</label>
+                <input type="text" id="username" name="username" required class="mt-1 w-full border rounded px-3 py-2 focus:outline-none focus:ring focus:border-blue-300">
+            </div>
+            <div>
+                <label for="password" class="block text-sm font-medium">Password</label>
+                <input type="password" id="password" name="password" required class="mt-1 w-full border rounded px-3 py-2 focus:outline-none focus:ring focus:border-blue-300">
+            </div>
+            <div>
+                <label for="confirm_password" class="block text-sm font-medium">Confirm Password</label>
+                <input type="password" id="confirm_password" name="confirm_password" required class="mt-1 w-full border rounded px-3 py-2 focus:outline-none focus:ring focus:border-blue-300">
+            </div>
+            <button type="submit" class="w-full bg-green-600 text-white py-2 rounded hover:bg-green-700 transition">
+                Register
+            </button>
+        </form>
+    </div>
+</body>
+</html>

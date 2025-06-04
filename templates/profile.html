@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
+        <h2 class="text-2xl font-semibold text-gray-800 mb-6 text-center">👤 Welcome, {{ user }}</h2>
+
+        <div class="space-y-4 text-gray-700 text-center">
+            <p class="text-lg">You're successfully logged in.</p>
+            <a href="/tts" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
+                Go to TTS Interface
+            </a>
+            <a href="/logout" class="inline-block text-red-600 hover:underline block mt-4">
+                Logout
+            </a>
+        </div>
+    </div>
+</body>
+</html>
