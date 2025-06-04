@@ -19,7 +19,7 @@ VOLUME ["/app/data"]
 VOLUME ["/app/audio_outputs"]
 
 # Expose port (adjust as needed)
-EXPOSE 8000
+EXPOSE 9002
 
 # Start app
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -5,7 +5,7 @@ services:
     build: .
     container_name: speekit
     ports:
-      - "8000:8000"
+      - "9002:8000"
     env_file:
       - .env
     volumes:
