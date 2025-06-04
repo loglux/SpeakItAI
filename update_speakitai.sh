@@ -1,7 +1,7 @@
 #!/bin/sh
 
 CONTAINER_NAME="SpeakItAI"
-IMAGE_NAME="speakitai:latest"
+IMAGE_NAME="SpeakItAI:latest"
 LOG_FILE="update_speakitai.log"
 
 log() {
