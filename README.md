@@ -209,21 +209,22 @@ This branch adds:
    cp .env.example .env
    ```
 
-2. Build and start the app:
-   ```bash
-   docker compose up -d --build
-   ```
+2. For both the first launch and all further updates, you can simply run:
+```bash
+./update_speekit.sh
+```
+This script will build the image, stop/remove any existing container, and start the app.
+
 
 3. Open in browser:
    ```
-   http://localhost:8000
+   http://localhost:9002
    ```
 
 ### 🔄 Update Script
-
 Run this to rebuild and restart:
-
 ```bash
+git pull
 ./update_speekit.sh
 ```
 
