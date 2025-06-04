@@ -3,7 +3,7 @@ version: '3.8'
 services:
   speekit:
     build: .
-    container_name: speekit
+    container_name: SpeakItAI
     ports:
       - "9002:8000"
     env_file:
