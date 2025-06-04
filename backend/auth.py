@@ -12,7 +12,7 @@ pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 DB_PATH = os.getenv("DB_PATH", "users.db")
 
-# === База данных ===
+# === Database ===
 def init_db():
     with sqlite3.connect(DB_PATH) as conn:
         cursor = conn.cursor()
@@ -62,7 +62,7 @@ def authenticate_user(username: str, password: str):
         return user
     return None
 
-# === Маршруты ===
+# === Routes ===
 @login_router.get("/login", response_class=HTMLResponse)
 def login_page(request: Request):
     return templates.TemplateResponse("login.html", {"request": request})
