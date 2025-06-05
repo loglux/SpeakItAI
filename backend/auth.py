@@ -14,6 +14,10 @@ DB_PATH = os.getenv("DB_PATH", "users.db")
 
 # === Database ===
 def init_db():
+    # Добавлено: создаём директорию, если она указана и не существует
+    db_dir = os.path.dirname(DB_PATH)
+    if db_dir and not os.path.exists(db_dir):
+        os.makedirs(db_dir, exist_ok=True)
     with sqlite3.connect(DB_PATH) as conn:
         cursor = conn.cursor()
         cursor.execute("""

@@ -6,13 +6,18 @@ import gradio as gr
 from gradio_ui import demo
 from backend.auth import login_router, init_db, get_current_user
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+SESSION_SECRET = os.getenv("SESSION_SECRET", "change_me_in_production")
+
 # Creating the FastAPI application.
 fastapi_app = FastAPI()
 
 # Adding session middleware.
 fastapi_app.add_middleware(
     SessionMiddleware,
-    secret_key="b7f8a22e6d9c49dfb38dfc3f34b3a5e5f9a34a8b23c64e1a0e6e71b90d2b9c51",
+    secret_key=SESSION_SECRET,
     session_cookie="session",
     max_age=60 * 60 * 24
 )

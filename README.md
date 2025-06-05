@@ -113,6 +113,24 @@ python app.py
 ```
 
 ---
+## 📦 Persistent Database Location
+
+By default, user data (SQLite database) is stored in a separate directory for better project structure and portability:
+
+```env
+DB_PATH=data/users.db
+```
+
+- **Configure this in your `.env` file.**
+- The app will **automatically create the `data/` directory** if it does not exist.
+- You can change the path/filename as needed (e.g. for backup, staging, or testing).
+- Database and audio files are always stored outside the main codebase for safety and easy management.
+
+**No manual folder setup required!**  
+Everything is ready after cloning the repo and running the app.
+
+---
+
 
 ## 📝 Usage Notes
 
