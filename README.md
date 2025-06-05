@@ -1,7 +1,13 @@
 # SpeakItAI – Neural Text-to-Speech with Azure & Gradio
 
 Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a simple Gradio web interface.
-
+---
+> ⚠️ **Note:**  
+> This is the classic Gradio version of SpeakItAI.  
+> For Docker support, FastAPI backend, and built-in user authentication, check out the [`fastapi-auth-docker`](https://github.com/loglux/SpeakItAI/tree/fastapi-auth-docker) branch!
+>
+> – Quick start, multi-user, browser-based registration, and NAS/server deployment:  
+> [`fastapi-auth-docker`](https://github.com/loglux/SpeakItAI/tree/fastapi-auth-docker)
 ---
 ![SpeakItAI Interface](screenshots/interface.png)
 ![Language List Update.png](screenshots/lang_list.png)
