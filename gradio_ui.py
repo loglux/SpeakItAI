@@ -12,7 +12,8 @@ AZURE_KEY = os.getenv("AZURE_KEY")
 AZURE_REGION = os.getenv("AZURE_REGION")
 
 # Prepare output directory
-os.makedirs("audio_outputs", exist_ok=True)
+AUDIO_DIR = os.getenv("AUDIO_OUTPUT_DIR", "audio_outputs")
+os.makedirs(AUDIO_DIR, exist_ok=True)
 
 # Initialize Azure TTS
 azure_tts = AzureTTS(key=AZURE_KEY, region=AZURE_REGION)
@@ -105,8 +106,33 @@ def delete_language(label_to_delete):
     return [[k, v] for k, v in LANGUAGE_LABELS.items()], gr.update(choices=get_languages()), gr.update(
         choices=get_languages())
 
+# === Audio Library ===
+def list_audio_files():
+    """
+    Returns a sorted list of audio file paths from the AUDIO_DIR directory.
+    """
+    files = []
+    for fname in sorted(os.listdir(AUDIO_DIR), reverse=True):
+        if fname.endswith((".wav")):
+            files.append(os.path.join(AUDIO_DIR, fname))
+    return files
 
+def delete_audio_file(filepath):
+    """
+    Deletes the specified audio file.
+    """
+    try:
+        os.remove(filepath)
+        return f"Deleted: {os.path.basename(filepath)}"
+    except Exception as e:
+        return f"Error: {str(e)}"
 
+def update_audio_list():
+    """
+    Returns an updated list of audio files for the dropdown.
+    """
+    files = list_audio_files()
+    return gr.update(choices=files, value=files[0] if files else None)
 
 # === Default UI values ===
 default_lang_display = get_languages()[0]
@@ -180,6 +206,19 @@ with gr.Blocks() as demo:
 
         delete_button.click(fn=delete_language, inputs=[delete_lang_dropdown],
                             outputs=[label_table, language_dropdown, delete_lang_dropdown])
+
+    with gr.Tab("Audio Library"):
+        file_list = gr.Dropdown(choices=list_audio_files(), label="Select audio file")
+    audio_player = gr.Audio()
+    delete_btn = gr.Button("Delete selected file")
+    refresh_btn = gr.Button("Refresh list")
+    status_text = gr.Markdown("")
+
+    file_list.change(lambda f: f, file_list, audio_player)
+    delete_btn.click(delete_audio_file, file_list, status_text).then(
+        update_audio_list, None, file_list
+    )
+    refresh_btn.click(update_audio_list, None, file_list)
 
 
 if __name__ == "__main__":
