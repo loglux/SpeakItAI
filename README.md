@@ -11,6 +11,7 @@ Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a s
 ---
 ![SpeakItAI Interface](screenshots/interface.png)
 ![Language List Update.png](screenshots/lang_list.png)
+![Aidio Library](screenshots/audio_library.png)
 
 *A simple, interactive interface for converting your text to realistic speech.*
 ---
@@ -25,7 +26,8 @@ Convert text to speech using Microsoft Azure Neural Text-to-Speech (TTS) and a s
 - Human-readable **language names** in the UI (e.g., "English (UK)" instead of `en-GB`) — falls back to code if name not defined
 - 🔧 **Manage display names and visible languages directly in the UI** – no need to edit files or restart the app
 - Modular architecture – ready for expansion
-
+- 📂 **Audio Library** tab: browse, play, and delete generated audio files directly in the web interface
+- Configurable audio output folder via `.env` variable `AUDIO_OUTPUT_DIR`
 ---
 
 ## 🆓 Azure Free Tier
@@ -126,6 +128,8 @@ python app.py
 - Only `.txt` files are accepted for upload.
 - The output is saved and played as a `.wav` file.
 - If a voice does not support styles, "default" will be used automatically.
+- All generated audio files are stored in the folder specified by `AUDIO_OUTPUT_DIR` in your `.env` file (default: `audio_outputs`).
+- Use the **Audio Library** tab to play back or delete any generated audio file directly from the browser.
 
 ---
 
