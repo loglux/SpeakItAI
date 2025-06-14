@@ -112,7 +112,7 @@ python tts/azure/update_config.py
 ### 5. Run the App
 
 ```bash
-python app.py
+unicorn app:app
 ```
 
 ---
